@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "soxiyegYXc6LK8ph5BiFH4KTuoRbAcA2XWlUAWoOainBNDEODeo5SXa/c9awmiuhshkF/LYlIt6jvc5N4y8l2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilia\\Epicodus\\C#\\Prime_Sifting\\Prime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

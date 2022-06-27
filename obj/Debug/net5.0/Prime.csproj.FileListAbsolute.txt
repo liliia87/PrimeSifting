@@ -1,0 +1,16 @@
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\bin\Debug\net5.0\Prime.exe
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\bin\Debug\net5.0\Prime.deps.json
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\bin\Debug\net5.0\Prime.runtimeconfig.json
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\bin\Debug\net5.0\Prime.runtimeconfig.dev.json
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\bin\Debug\net5.0\Prime.dll
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\bin\Debug\net5.0\Prime.pdb
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.csproj.AssemblyReference.cache
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.AssemblyInfoInputs.cache
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.AssemblyInfo.cs
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.dll
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\refint\Prime.dll
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.pdb
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\Prime.genruntimeconfig.cache
+C:\Users\lilia\Epicodus\C#\Prime_Sifting\obj\Debug\net5.0\ref\Prime.dll
